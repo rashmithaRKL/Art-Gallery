@@ -3,7 +3,7 @@
 A clean and visually engaging Art Gallery website created using HTML and CSS.
 Designed to showcase beautiful art collections, promote online exploration, and offer a seamless browsing experience for art lovers.
 
-🚀 Features
+## 🚀 Features
 
 🖼️ Elegant, modern homepage design
 
@@ -20,14 +20,16 @@ Designed to showcase beautiful art collections, promote online exploration, and 
 ⚡ Fast-loading and lightweight
 
 
-🛠️ Built With
+
+## 🛠️ Built With
 
 HTML5
 
 CSS3
 
+
     
-📢 How To Use
+## 📢 How To Use
 
 Clone or download the repository.
 
@@ -35,7 +37,8 @@ Open the index.html file in any web browser.
 
 Customize the images, text, or colors to fit your gallery's brand.
 
-✨ Customization Tips
+
+## ✨ Customization Tips
 
 Replace artwork images in the images/ folder.
 
