@@ -26,17 +26,6 @@ HTML5
 
 CSS3
 
-📂 Folder Structure
-
-pgsql
-Copy
-Edit
-/art-gallery-website
-│
-├── index.html
-├── style.css
-└── images/
-    └── (All images used for artworks, backgrounds, etc.)
     
 📢 How To Use
 
